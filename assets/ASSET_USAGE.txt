@@ -1,0 +1,9 @@
+PINAI Frontend Examination 2 asset guide
+
+images/: photography and conceptual imagery only.
+icons/: standalone SVG icons.
+brand/: PINAI SVG wordmark.
+reference/PINAI_HiRes_Reference.png: full-page visual examination reference.
+reference/PINAI_Vector_Reference.pdf: vector-text reference, preferred for extreme zoom.
+
+Do not use either full-page reference as a page background. Build all video/chat controls, buttons, feature cards, form fields, audio indicators and text as actual DOM elements styled in CSS.
